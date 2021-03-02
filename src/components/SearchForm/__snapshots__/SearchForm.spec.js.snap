@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchForm Component render without error SearchForm method should return list item with image 1`] = `ShallowWrapper {}`;

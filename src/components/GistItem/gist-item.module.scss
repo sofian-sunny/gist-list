@@ -1,0 +1,14 @@
+.container {
+    flex: 1;
+    width: 70%;
+    margin-top: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  .rowItem {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: #f1f2f4;
+    padding: 10px;
+  }
